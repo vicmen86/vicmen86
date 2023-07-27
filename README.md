@@ -5,14 +5,14 @@
   </h2>
   
   <div align="center">
-   <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Me%20llamo%20Victor%20Paco%20Menchaka&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+   <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Me%20llamo%20Victor%20Paco%20Menchaca&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 
   </div>
 
 
 <img  align="right" height="250px" width="400px" alt="GIF" src = "https://user-images.githubusercontent.com/86250631/209225927-b64f22d8-b04f-40e9-8cd8-e7d268d3e93a.gif">
 
-Soy un desarrollador Full Stack recién graduado de un bootcamp muy exigente e intensivo, donde aprendí a desarrollar proyectos individuales y grupales. Me considero una persona responsable, proactiva, autodidacta y que se enfoca en avanzar y crecer bajo cualquier circunstancia. Gracias a mi trabajo anterior aprendí a trabajar en equipo, trato con clientes, administración comercial, administración contable e impositiva, compras y stock. Actualmente tengo como objetivo principal capacitarme en desarrollo Back End y a la vez aprender nuevas herramientas y tecnologías que impulsen mi buen desempeño laboral.</br>
+Soy un desarrollador Full Stack graduado de un bootcamp muy exigente e intensivo, donde aprendí a desarrollar proyectos individuales y grupales. Cuento con experiencia en JavaScript, C#, NodeJS, React, ASP.NET, Redux, Express, PostgreSQL, MongoDB, SQLserver y otras tecnologías del sector. Me considero una persona responsable, proactiva, autodidacta, entusiasta, adaptable a los cambios y que se enfoca en avanzar y crecer bajo cualquier circunstancia. Gracias a mi trabajo anterior aprendí a trabajar en equipo, trato con clientes, administración comercial, administración contable e impositiva, enfrentar retos, cambios drasticos y mucha presión. Actualmente tengo como objetivo principal capacitarme en desarrollo Back End, enfrentar y sortear desafíos y a la vez aprender nuevas herramientas y tecnologías que me impulsen.</br>
 
 <!--  📝[CV](https://github.com/vicmen86/vicmen86/blob/main/victor.pdf)</br>
 
